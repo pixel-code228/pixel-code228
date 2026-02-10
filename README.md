@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pixel-code228/pixel-code228/main/banner.gif">
+  <img src="https://raw.githubusercontent.com/pixel-code228/pixel-code228/main/banner.gif?raw=true">
 </p>
 
 <!-- TITLE -->
